@@ -1,0 +1,13 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    xdg (2.2.3)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  xdg
+
+BUNDLED WITH
+   1.13.0

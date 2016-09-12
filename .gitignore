@@ -1,8 +1,11 @@
+log.txt
+*.*~
 
 # Created by https://www.gitignore.io/api/java
 
 ### Java ###
 *.class
+*.java
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
